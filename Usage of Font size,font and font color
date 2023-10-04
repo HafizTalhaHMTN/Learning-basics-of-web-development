@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+
+</body>>
+
+<p style="color:blue;">The pre tag preserves both spaces and line breaks:</p>
+
+<pre style="font-size: x-large;">
+   My Bonnie lies over the ocean.
+
+   My Bonnie lies over the sea.
+
+   My Bonnie lies over the ocean.
+   
+   Oh, bring back my Bonnie to me.
+</pre>
+
+</body>
+</html>
+
