@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>This text is normal.</p>
+
+<p><em>This text is emphasized.</em></p>
+
+<p><strong>This text is important!</strong></p>
+
+<p><small>This text is small.</small></p>
+
+<p><del>This text is deleted.</del></p>
+
+<p><mark>This text is marked or highlited.</mark></p>
+
+<p><ins>This text is inserted.</ins></p>
+
+
+</body>
+</html>
+
