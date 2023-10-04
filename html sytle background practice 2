@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p style="background-color: rgb(2, 255, 48);">The pre tag preserves both spaces and line breaks:</p>
+
+<pre style="background-color: rgba(255, 65, 2, 0.963);">
+   My Bonnie lies over the ocean.
+
+   My Bonnie lies over the sea.
+
+   My Bonnie lies over the ocean.
+   
+   Oh, bring back my Bonnie to me.
+</pre>
+
+</body>
+</html>
+
