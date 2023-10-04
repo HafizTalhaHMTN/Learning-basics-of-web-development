@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color: aqua;">
+
+</body>>
+
+<p style="color:blue;">The pre tag preserves both spaces and line breaks:</p>
+
+<pre style="text-align: center;">
+   My Bonnie lies over the ocean.
+
+   My Bonnie lies over the sea.
+
+   My Bonnie lies over the ocean.
+   
+   Oh, bring back my Bonnie to me.
+</pre>
+
+</body>
+</html>
+
